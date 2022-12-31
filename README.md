@@ -1,5 +1,5 @@
 # Web_Development_Projects
-This is the package which contains of multiple web development projects which helped me to gain knowledge in this domain
+This is the package which contains of multiple web development projects which helped me to gain knowledge in this domain.
 
 
 ## Available Projects
