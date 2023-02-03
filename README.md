@@ -7,6 +7,7 @@ This is the package which contains of multiple web development projects which he
  - [Climate_Exhibiter](https://github.com/Thilagavijayan/Web_Development_Projects/tree/main/Climate_exhibiter)
  - [Landing_Page](https://github.com/Thilagavijayan/Web_Development_Projects/tree/main/Landing_page)
  - [Slam_book](https://github.com/Thilagavijayan/Web_Development_Projects/tree/main/Slam_book)
+ - [Open_Source_Guide](https://github.com/Thilagavijayan/Web_Development_Projects/tree/main/Open_Source_Guide)
 
 ## Appendix
 
